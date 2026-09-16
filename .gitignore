@@ -1,0 +1,4 @@
+profile.json
+target/
+*.class
+.DS_Store

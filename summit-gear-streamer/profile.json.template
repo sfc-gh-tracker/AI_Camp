@@ -1,0 +1,8 @@
+{
+  "account": "YOUR_ACCOUNT",
+  "user": "YOUR_USER",
+  "url": "https://YOUR_ACCOUNT.snowflakecomputing.com",
+  "private_key": "YOUR_PRIVATE_KEY_BASE64_NO_HEADERS",
+  "role": "ACCOUNTADMIN",
+  "warehouse": "COMPUTE_WH"
+}
